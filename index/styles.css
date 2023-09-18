@@ -1,0 +1,22 @@
+.cardContainer {
+  padding: 50px;
+}
+
+.card {
+  max-width: 350px;
+}
+
+.foot {
+  margin: -12px;
+  margin-bottom: -50px;
+}
+
+.footcont {
+  background-color: rgb(62, 69, 80);
+}
+
+.icons a {
+  color: white;
+  min-width: 50px;
+  gap: 50px;
+}
